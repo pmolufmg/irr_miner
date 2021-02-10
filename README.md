@@ -1,4 +1,4 @@
-# whois_communities_extractor
+# IRR Miner
 First commit
 
 collector/main.py --> perform whois queries and saves rpsl objects as .txt files
